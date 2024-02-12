@@ -8,7 +8,7 @@ Feel free to explore the projects and use them in any way you like. If you have 
 
 # Project List
 **Project 1**: Learn Python3 / hello-world / block-letters / initials.py
-print(\n)
+
 **Project 2**: Learn Python3 / hello-world / lovely_loveseat_catalog.py
 
 # Usage
