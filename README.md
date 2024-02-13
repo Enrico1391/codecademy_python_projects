@@ -13,7 +13,7 @@ Feel free to explore the projects and use them in any way you like. If you have 
 
 **Project 3**: Learn Python3 / control-flow / magic_8.py
 
-**Project 3**: Learn Python3 / control-flow / sal_shipping.py
+**Project 4**: Learn Python3 / control-flow / sal_shipping.py
 
 # Usage
 Each project can be run independently. Simply open the respective Python file in your preferred Python environment (such as VSCode or IDLE) and run it to see the project in action.
