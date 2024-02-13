@@ -12,16 +12,25 @@ print('Then, wait for the 8 Ball to work its magic. \n''')
 player_name = ''
 player_question = ''
 
-# Prompt player for name and question
+# Prompt player for name
 while player_name == '':
-    player_name = input('What\'s your name? ')
+    player_name = input('What\'s your name? \n')
     if player_name == '':
        print('Please, provide a name.')
+    else:
+       confirmation = input(f'Are you sure you want to save {player_name} as your name? (yes/no) \n')
+       while confirmation.lower() not in ['yes', 'no']:
+          print('Invalid input. Please enter "yes" or "no".')
+          confirmation = input(f'Are you sure you want to save {player_name} as your name? (yes/no) \n')
+       if confirmation.lower() == 'no':
+         player_name = ''
+         print('Please provide your name again. ')
 
+# Prompt player for question
 while player_question == '':
-    player_question = input('What\'s your question? ')
-    if player_question == '':
-        print('Please, provide a question.')
+   player_question = input('\nWhat\'s your question?\n')
+   if player_question == '':
+      print('Please, provide a question.')
 
 # Print player's name, question and ask the player to wait
 print('\n' + player_name + '\'s question:', player_question)
