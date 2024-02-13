@@ -1,18 +1,12 @@
 # Import random module
 import random
 
-# Declare variable to store randomly generated number
-random_number = random.randint(1, 12)
-
-# Add empty line for readability
-print('\n')
-
 # print the greetings
-print('Welcome to the Magic 8 Ball Game \n')
+print('\nWelcome to the Magic 8 Ball Game\n')
 
 # Provide examples of suitable questions
-print('''Ask a yes/no question about yourself or your dreams.
-Then, wait for the 8 Ball to work its magic. \n''')
+print('Ask a yes/no question about yourself or your dreams.')
+print('Then, wait for the 8 Ball to work its magic. \n''')
 
 # Initialize player_name and player_question as empty strings
 player_name = ''
@@ -32,6 +26,9 @@ while player_question == '':
 # Print player's name, question and ask the player to wait
 print('\n' + player_name + '\'s question:', player_question)
 print('Channeling my power, please wait...')
+
+# Declare variable to store randomly generated number
+random_number = random.randint(1, 12)
 
 # Declare variable that stores 8-ball answer
 answer = ''
@@ -63,7 +60,4 @@ elif random_number == 12:
    answer = 'Don\'t count on it'
 
 # Print 8-ball answer
-print('\n🔮 The mystic 8-ball speaks:', answer)
-
-# Add empty line for readability
-print('\n')
+print('\n🔮 The mystic 8-ball speaks:', answer, '\n')
