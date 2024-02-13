@@ -21,32 +21,27 @@ customer_one_total = 0
 customer_one_itemization = ''
 
 # Update total and itemization for the first item purchased by the first customer
-customer_one_total = customer_one_total + lovely_loveseat_price
-customer_one_itemization = customer_one_itemization + '\n' + lovely_loveseat_description
+customer_one_total += lovely_loveseat_price
+customer_one_itemization += '\n' + lovely_loveseat_description
 
 # Update total and itemization for the second item purchased by the first customer
-customer_one_total = customer_one_total + luxurious_lamp_price
-customer_one_itemization = customer_one_itemization + '\n' + '\n' + luxurious_lamp_description
+customer_one_total += luxurious_lamp_price
+customer_one_itemization += '\n' * 2 + luxurious_lamp_description
 
 # Calculate sales tax for the first customer
 customer_one_tax = customer_one_total * sales_tax
 
 # Add sales tax to the first customer total
-customer_one_total = customer_one_total + customer_one_tax
+customer_one_total += customer_one_tax
 
 # Add empty line for readability
 print('\n')
 
 # Print the items purchased by the first customer
-print('Customer one Items: ')
-print(customer_one_itemization)
-
-# Add empty line for readability
-print('\n')
+print('Customer one Items:', customer_one_itemization, '\n')
 
 # Print the total cost for the first customer
-print('Customer One Total: ')
-print(customer_one_total)
+print('Customer One Total:', customer_one_total)
 
 # Add empty line for readability
 print('\n')
