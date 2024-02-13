@@ -22,11 +22,11 @@ customer_one_itemization = ''
 
 # Update total and itemization for the first item purchased by the first customer
 customer_one_total = customer_one_total + lovely_loveseat_price
-customer_one_itemization = customer_one_itemization + lovely_loveseat_description
+customer_one_itemization = customer_one_itemization + '\n' + lovely_loveseat_description
 
 # Update total and itemization for the second item purchased by the first customer
 customer_one_total = customer_one_total + luxurious_lamp_price
-customer_one_itemization = customer_one_itemization + '\n' + luxurious_lamp_description
+customer_one_itemization = customer_one_itemization + '\n' + '\n' + luxurious_lamp_description
 
 # Calculate sales tax for the first customer
 customer_one_tax = customer_one_total * sales_tax
