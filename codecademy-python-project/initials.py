@@ -1,3 +1,6 @@
+# Block Letters (initials.py)
+# Display your initials on the screen in block letters and create an ASCII art.
+
 # Enrico Rinaudo
 # Fun Fact: I like dumb things.
 
