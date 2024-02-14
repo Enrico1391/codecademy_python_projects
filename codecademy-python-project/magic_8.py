@@ -1,7 +1,11 @@
+# Magic 8-Ball (magic_8.py)
+# Use control flow to create a Python program to answer “Yes” or “No” questions
+# Predict someone’s fortune with a different fortune each time it executes.
+
 # Import random module
 import random
 
-# print the greetings
+# Print the greetings
 print('\nWelcome to the Magic 8 Ball Game\n')
 
 # Provide examples of suitable questions
