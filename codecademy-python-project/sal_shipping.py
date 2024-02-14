@@ -1,3 +1,6 @@
+# Sal's company best shipping deals (sal_shipping.py)
+# Help Sal’s customers get the best deals on all their shipping needs.
+
 # Input package weight
 package_weight = float(input('\nPlease, input the weight of the package you want to ship.\n'))
 
