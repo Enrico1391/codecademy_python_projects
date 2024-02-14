@@ -7,13 +7,15 @@ Welcome to my codecademy-python-projects repository! This collection contains so
 Feel free to explore the projects and use them in any way you like. If you have feedbacks, don't hesitate to reach out.
 
 # Project List
-**Project 1**: Learn Python3 / hello-world / block-letters / initials.py
+**Project 1**: Learn Python 3 / hello-world / block-letters / initials.py
 
-**Project 2**: Learn Python3 / hello-world / lovely_loveseat_catalog.py
+**Project 2**: Learn Python 3 / hello-world / lovely_loveseat_catalog.py
 
-**Project 3**: Learn Python3 / control-flow / magic_8.py
+**Project 3**: Learn Python 3 / control-flow / magic_8.py
 
-**Project 4**: Learn Python3 / control-flow / sal_shipping.py
+**Project 4**: Learn Python 3 / control-flow / sal_shipping.py
+
+**Project 5**: Learn Python 3 / lists / gradebook.py
 
 # Usage
 Each project can be run independently. Simply open the respective Python file in your preferred Python environment (such as VSCode or IDLE) and run it to see the project in action.
