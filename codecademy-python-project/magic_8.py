@@ -1,5 +1,5 @@
 # Magic 8-Ball (magic_8.py)
-# Use control flow to create a Python program to answer “Yes” or “No” questions
+# Use control flow to create a Python program to answer “Yes” or “No” questions.
 # Predict someone’s fortune with a different fortune each time it executes.
 
 # Import random module
