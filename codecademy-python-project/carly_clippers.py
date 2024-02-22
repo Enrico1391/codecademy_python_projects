@@ -2,8 +2,8 @@
 # Practice loops to discover trends in the operation of the hair salon, Carly’s Clippers.
 
 # Declare variables for names and prices of haircuts
-hairstyles = ["bouffant", "pixie", "dreadlocks", "crew", 
-              "bowl", "bob", "mohawk", "flattop"]
+hairstyles = ['bouffant', 'pixie', 'dreadlocks', 'crew',
+              'bowl', 'bob', 'mohawk', 'flattop']
 prices = [30, 25, 40, 20, 20, 35, 50, 35]
 
 # Declare variable for amount of haircuts sold last week
