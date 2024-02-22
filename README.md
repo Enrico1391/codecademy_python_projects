@@ -21,6 +21,8 @@ Feel free to explore the projects and use them in any way you like. If you have 
 
 **Project 7**: Learn Python 3 / loops / carly_clippers.py
 
+**Project 8**: Learn Python 3 / functions / physics_class.py
+
 # Usage
 Each project can be run independently. Simply open the respective Python file in your preferred Python environment (such as VSCode or IDLE) and run it to see the project in action.
 
