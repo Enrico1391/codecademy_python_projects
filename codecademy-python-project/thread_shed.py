@@ -191,12 +191,10 @@ def sngl_color():
 
 print(f'Single Colors List: {sngl_color()}\n')
 
-# Count color occurences
+# # Count color occurences
 def color_count(clr):
-  for i in thread_sold_split:
-    return thread_sold_split.count(clr)
-
-color_count('white')
+  count = thread_sold_split.count(clr)
+  return count
 
 # Define list for all the colors offered
 colors = []
