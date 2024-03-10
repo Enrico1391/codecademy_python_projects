@@ -1,4 +1,4 @@
-# Coded Correspondece/Cryptography Puzzles (coded_correspondence.py)
+# Coded Correspondence/Cryptography Puzzles (coded_correspondence.py)
 # Use Python to decipher and encode messages
 
 # Declare variable for alphabet
