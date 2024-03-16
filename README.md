@@ -29,6 +29,8 @@ Feel free to explore the projects and use them in any way you like. If you have 
 
 **Project 11**: Learn Python 3 / dictionaries / scrabble.py
 
+**Project 11**: Learn Python 3 / off-platform project / abruptly_goblins.py
+
 # Usage
 Each project can be run independently. Simply open the respective Python file in your preferred Python environment (such as VSCode or IDLE) and run it to see the project in action.
 
