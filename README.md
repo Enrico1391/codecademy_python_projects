@@ -7,6 +7,7 @@ Welcome to my codecademy-python-projects repository! This collection contains so
 Feel free to explore the projects and use them in any way you like. If you have feedbacks, don't hesitate to reach out.
 
 # Project List
+
 **Project 1**: Learn Python 3 / hello-world / block-letters / initials.py
 
 **Project 2**: Learn Python 3 / hello-world / lovely_loveseat_catalog.py
@@ -30,6 +31,8 @@ Feel free to explore the projects and use them in any way you like. If you have 
 **Project 11**: Learn Python 3 / dictionaries / scrabble.py
 
 **Project 11**: Learn Python 3 / off-platform project / abruptly_goblins.py
+
+**Project 12**: Learn Python 3 / files / hacking_the_fender.py
 
 # Usage
 Each project can be run independently. Simply open the respective Python file in your preferred Python environment (such as VSCode or IDLE) and run it to see the project in action.
