@@ -8,31 +8,31 @@ Feel free to explore the projects and use them in any way you like. If you have 
 
 # Project List
 
-**Project 1**: Learn Python 3 / hello-world / block-letters / initials.py
+**Project 1**: Learn Python 3 / initials.py (hello-world)
 
-**Project 2**: Learn Python 3 / hello-world / lovely_loveseat_catalog.py
+**Project 2**: Learn Python 3 / lovely_loveseat_catalog.py (hello-world)
 
-**Project 3**: Learn Python 3 / control-flow / magic_8.py
+**Project 3**: Learn Python 3 / magic_8.py (control-flow)
 
-**Project 4**: Learn Python 3 / control-flow / sal_shipping.py
+**Project 4**: Learn Python 3 / sal_shipping.py (control-flow)
 
-**Project 5**: Learn Python 3 / lists / gradebook.py
+**Project 5**: Learn Python 3 / gradebook.py (lists)
 
-**Project 6**: Learn Python 3 / lists / len_slice.py
+**Project 6**: Learn Python 3 / len_slice.py (lists)
 
-**Project 7**: Learn Python 3 / loops / carly_clippers.py
+**Project 7**: Learn Python 3 / carly_clippers.py (loops)
 
-**Project 8**: Learn Python 3 / functions / physics_class.py
+**Project 8**: Learn Python 3 / physics_class.py (functions)
 
-**Project 9**: Learn Python 3 / strings / thread_shed.py
+**Project 9**: Learn Python 3 / thread_shed.py (strings)
 
-**Project 10**: Learn Python 3 / off-platform project / coded_correspondence.py
+**Project 10**: Learn Python 3 / coded_correspondence.py (off-platform project)
 
-**Project 11**: Learn Python 3 / dictionaries / scrabble.py
+**Project 11**: Learn Python 3 / scrabble.py (ictionaries)
 
-**Project 11**: Learn Python 3 / off-platform project / abruptly_goblins.py
+**Project 11**: Learn Python 3 / abruptly_goblins.py (off-platform project)
 
-**Project 12**: Learn Python 3 / files / hacking_the_fender.py
+**Project 12**: Learn Python 3 / files / hacking_the_fender.py + passwords.csv
 
 # Usage
 Each project can be run independently. Simply open the respective Python file in your preferred Python environment (such as VSCode or IDLE) and run it to see the project in action.
