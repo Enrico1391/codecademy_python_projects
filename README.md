@@ -34,6 +34,8 @@ Feel free to explore the projects and use them in any way you like. If you have 
 
 **Project 12**: Learn Python 3: files / hacking_the_fender.py + passwords.csv (files)
 
+**Project 13**: Learn Python 3: basta_fazoolin.py (classes)
+
 # Usage
 Each project can be run independently. Simply open the respective Python file in your preferred Python environment (such as VSCode or IDLE) and run it to see the project in action.
 
