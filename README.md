@@ -2,7 +2,7 @@
 A collection of my first Python projects done on Codecademy and VS Code.
 
 # Introduction
-Welcome to my codecademy-python-projects repository! This collection contains some of my first Python projects, done on VSCode as part of my learning journey on Codecademy. As I delved into Python programming, I documented my progresses and shared these projects for others who are also interested in Python.
+Welcome to my "codecademy-python-projects" repository! This collection contains some of my first Python projects, done on VSCode as part of my learning journey on Codecademy. As I delved into Python programming, I documented my progresses and shared these projects for others who are also interested in Python.
 
 Feel free to explore the projects and use them in any way you like. If you have feedbacks, don't hesitate to reach out.
 
