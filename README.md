@@ -1,4 +1,4 @@
-# codecademy-python-projects
+# codecademy_python_projects
 A collection of my first Python projects done on Codecademy and VS Code.
 
 # Introduction
