@@ -1,4 +1,4 @@
-# Games Store/Plan Abrutly Goblins game night (abruptly_goblins.py)
+# Games Store/Plan Abrutly Goblins game night (abruptly_goblins.py)bn
 # Create a system for organizing and tracking gamer’s availability.
 
 # Empty list to store the people who are attending game night
