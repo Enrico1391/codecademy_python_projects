@@ -39,9 +39,6 @@ Feel free to explore the projects and use them in any way you like. If you have 
 # Usage
 Each project can be run independently. Simply open the respective Python file in your preferred Python environment (such as VSCode or IDLE) and run it to see the project in action.
 
-# Contributing
-If you have suggestions for improvements, bug fixes, or new features for any of the projects, feel free to submit a pull request.
-
 # Contact
 If you want to get in touch, you can reach me via email at [enricorinaudo91@gmail.com].
 
